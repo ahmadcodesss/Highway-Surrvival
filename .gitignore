@@ -1,0 +1,12 @@
+# Ignore SFML library folders
+External/
+x64/
+
+# Ignore Visual Studio temp files
+.vs/
+*.user
+*.suo
+*.pdb
+*.exe
+Debug/
+Release/
