@@ -44,4 +44,12 @@ With smooth animations, real-time scoring, and responsive controls, Highway Surv
 ## Tools
 - C++  
 - SFML  
-- Git  
+- Git
+
+## System Design
+
+### Flowchart
+![Flowchart](Game%20Flow.png)
+
+### Class Diagram
+![Class Diagram](UML%20Class%20Diagram.png)
